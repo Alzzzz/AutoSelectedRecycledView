@@ -8,4 +8,5 @@
    实现很简单，主要利用SnapHelper，例如LinearSnapHelper（默认选中中间位置）。
 
 ## 用法
-   AutoSelectStartHelper.attachToRecyclerView(recyclerView);
+   AutoSelectStartHelper mAutoSelectStartHelper = new AutoSelectStartHelper();
+   autoSelectStartHelper.attachToRecyclerView(recyclerView);
