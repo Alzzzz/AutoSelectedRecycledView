@@ -9,4 +9,4 @@
 
 ## 用法
    AutoSelectStartHelper mAutoSelectStartHelper = new AutoSelectStartHelper();
-   autoSelectStartHelper.attachToRecyclerView(recyclerView);
+   mAutoSelectStartHelper.attachToRecyclerView(recyclerView);
